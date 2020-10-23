@@ -1,0 +1,158 @@
+.myHeader{
+  color: white;
+}
+
+// Top navigation
+.topNav{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(233, 232, 232,0.2);
+  color: white;
+  .leftTopNav ul{
+    display: flex;
+    list-style: none;
+  }
+  .leftTopNav ul li a{
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+  }
+  .rightTopNav ul{
+    display: flex;
+    list-style: none;
+  }
+  .rightTopNav ul li{
+    margin-right: 15px;
+  }
+}
+
+// Mid Navigation
+.midNav{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 55px 15px;
+  border-bottom: 1px solid rgba(233, 232, 232, 0.2);
+  .searchbar{
+    input{
+      border: 2px solid gray;
+      padding: 10px 5px;
+      border-radius: 7px;
+      background-color: rgb(32, 32, 32);
+      color: gray;
+    }
+  }
+  .customerSupport{
+    ul{
+      list-style-type: none;
+      border: 2px solid gray;
+      padding: 10px 5px;
+      border-radius: 7px;
+      background-color: rgb(32, 32, 32);
+      color: gray;
+      line-height: 0;
+    }
+  }
+}
+
+
+// Main Navigation
+.mainNav{
+  border-bottom: 1px solid rgba(233, 232, 232, 0.2);
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  ul{
+    display: flex;
+    list-style: none;
+  }
+  li{
+    margin-right: 70px;
+  }
+}
+
+
+
+/* Footer */
+footer{
+  color: white;
+  .menu1{
+    margin-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+    .footer{
+      flex-basis: 320px;
+    }
+    .featured{
+      margin-top: 10px;
+      display: flex;
+      img{
+        width: 80px;
+        height: 80px;
+      }
+      div{
+        padding-left: 40px;
+      }
+    }
+    .topRated{
+      display: flex;
+      margin-top: 10px;
+      img{
+        width: 80px;
+        height: 80px;
+      }
+      div{
+        padding-left: 40px;
+      }
+    }
+    .overview{
+      text-align: center;
+    }
+  
+    .news{
+      .latestNews{
+        p{
+          color: yellow;
+          line-height: 25px;
+        }
+      }
+      .newsletter{
+        input{
+          padding: 20px 10px;
+          border: 1px solid rgba(214, 211, 211,0.2);
+          border-radius: 4px;
+          outline: none;
+        }
+        button{
+          padding: 20px 20px;
+          border: 1px solid yellow;
+          border-radius: 4px;
+          background-color: yellow;
+          outline: none;
+        }
+      }
+    }
+  }
+
+  nav{
+    border: 1px solid rgba(212, 210, 210, 0.2);
+    ul{
+      display: flex;
+      list-style: none;
+    }
+    li{
+      margin-right: 20px;
+      cursor: pointer;
+    }
+  }
+
+  .copyright{
+    padding: 20px 30px;
+    p{
+      color:  rgba(226, 223, 223, 0.2);
+    }
+  }
+}
