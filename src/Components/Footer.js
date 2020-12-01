@@ -1,5 +1,6 @@
 import React from 'react'
 import * as products from '../Products/index'
+import logo from '../Products/images/logo.png'
 import './style.scss'
 
 function Footer() {
@@ -8,7 +9,7 @@ function Footer() {
       <footer>
         <div className="menu1">
           <div className="footer overview">
-            <h1>Continuum</h1>
+            <div className="logo"><img src={logo} alt="logo" /></div>
             <p>Continuum is an E-commerce platform, giving you the best watches you can find.
               Experience time in its highest quality
             </p>
