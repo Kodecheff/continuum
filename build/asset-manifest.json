@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d1c949a.chunk.css",
+    "main.js": "/static/js/main.40aed6d2.chunk.js",
+    "main.js.map": "/static/js/main.40aed6d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82b70976.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82b70976.js.map",
+    "static/css/2.cebec226.chunk.css": "/static/css/2.cebec226.chunk.css",
+    "static/js/2.bd3a9a31.chunk.js": "/static/js/2.bd3a9a31.chunk.js",
+    "static/js/2.bd3a9a31.chunk.js.map": "/static/js/2.bd3a9a31.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.81fbab0682a7b84d8705a222356081c3.js": "/precache-manifest.81fbab0682a7b84d8705a222356081c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cebec226.chunk.css.map": "/static/css/2.cebec226.chunk.css.map",
+    "static/css/main.4d1c949a.chunk.css.map": "/static/css/main.4d1c949a.chunk.css.map",
+    "static/js/2.bd3a9a31.chunk.js.LICENSE.txt": "/static/js/2.bd3a9a31.chunk.js.LICENSE.txt",
+    "static/media/Watch1.jpeg": "/static/media/Watch1.4e853c74.jpeg",
+    "static/media/Watch13.jpeg": "/static/media/Watch13.0894d7a6.jpeg",
+    "static/media/Watch15.jpeg": "/static/media/Watch15.c197a1c6.jpeg",
+    "static/media/Watch3.jpeg": "/static/media/Watch3.e1bb3f34.jpeg",
+    "static/media/Watch4.jpeg": "/static/media/Watch4.4293bc86.jpeg",
+    "static/media/Watch5.jpeg": "/static/media/Watch5.239882fb.jpeg",
+    "static/media/Watch6.jpeg": "/static/media/Watch6.e0954d66.jpeg",
+    "static/media/WebSlider1.png": "/static/media/WebSlider1.de8ed2bc.png",
+    "static/media/WebSlider2.png": "/static/media/WebSlider2.0ec06196.png",
+    "static/media/WebSlider4.png": "/static/media/WebSlider4.c1c7bf87.png",
+    "static/media/logo.png": "/static/media/logo.70ae6b74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b70976.js",
+    "static/css/2.cebec226.chunk.css",
+    "static/js/2.bd3a9a31.chunk.js",
+    "static/css/main.4d1c949a.chunk.css",
+    "static/js/main.40aed6d2.chunk.js"
+  ]
+}
